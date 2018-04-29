@@ -1,0 +1,1 @@
+Olá amigos(a), repositório novo para armazenar os códigos. Esse repositório foi criado no princípio de armazenar meus códigos(Obviamente) e fazer boas práticas em geral e facilitar o entendimento para as demais pessoas. Abraços e code the web!
